@@ -399,7 +399,7 @@ footer a:hover { color: var(--ink); }
     <p class="fade3">Master's student at Baruch College. Focused on data science — building things, finding patterns, asking better questions.</p>
     <p class="fade3">This site collects my work for STA 9750, Software Tools for Data Analysis.</p>
     <div class="btn-row fade4">
-      <a class="btn btn-primary" href="YOUR_RESUME_PDF_URL_HERE">Resume</a>
+      <<a class="btn btn-primary" href="#projects">Resume</a>
       <a class="btn btn-outline" href="#projects">Projects</a>
       <a class="btn btn-outline" href="https://github.com/asarker00/" target="_blank">GitHub</a>
     </div>
