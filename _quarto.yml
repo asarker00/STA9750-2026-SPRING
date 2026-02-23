@@ -3,18 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "STA 9750 Submission Material"
-  description:
-    Course Projects for STA 9750 at Baruch College
-  site-url: "https://asarker00.github.io/STA9750-2026-SPRING/"
+  title: "asark | STA 9750"
+  description: "STA 9750 Course Projects - Baruch College"
+  site-url: "https://asark00.github.io/STA9750-2026-SPRING/"
   navbar:
-    background: primary
     search: false
-    
+
 format:
   html:
-    theme: sandstone
+    theme: none
     toc: false
+    page-layout: full
 
 editor:
   mode: source
