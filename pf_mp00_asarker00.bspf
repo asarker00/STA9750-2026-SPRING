@@ -1,0 +1,50 @@
+peer_feedback_assignment_1:
+  issue_number: 3
+  issue_owner: mclycke
+  issue_ok: yes
+  issue_status: OK
+  overall_comments:
+    positive: |-
+      It followed much of the instructions
+      the code is nice and tidy
+    negative: So far I would say done is exceptional but the map, last updated and resume parts are missing..
+    advice: |-
+      All of the done parts are correct,those dont need be improved upon. However I do believe that not adding the rendered code leaves a big part of the assigment/testing of the r enviroment not doable. 
+      Keep it up, I like how tidy and succint your code is. Easy to read, optimized and the text file denotes exactly what is being shown!
+  scores: []
+  mp_number: 0
+peer_feedback_assignment_2:
+  issue_number: 6
+  issue_owner: jalfred259806
+  issue_ok: yes
+  issue_status: OK
+  overall_comments:
+    positive: |-
+      Javier's project and its rendering is exceptional. It has the map and it is centered, a bio about himself and a working resume link! All around great thus fat.
+      Well I basically noted all of them but also I do believe his bio is objectively well written, even if that is not a core project component. I also see a linkedin link so I'd say he was extra thoughtful when creating the site.
+    negative: Maybe the linkedin link as button, like the resume? Then again it was
+      an extra intiative taken on by Javier, so I woudln't be too concerned.Objectively
+      his page is really nice.
+    advice: |-
+      Just making the linkedin hyper link a button, that is all I would say.
+      Keep up the great work!
+  scores: []
+  mp_number: 0
+peer_feedback_assignment_3:
+  issue_number: 18
+  issue_owner: monica-phan26
+  issue_ok: yes
+  issue_status: OK
+  overall_comments:
+    positive: Monica's website has a photo, the map and an objective for the website.
+      The rendering is nice.
+    negative: |-
+      Of course this is subjective but the page could be better centered/alligned. Also I can't seem to access her github code? Might up been an upload problem or possibly privated.
+      Just making sure that the github has the code but I'm sure the issue may have happened afterwards as it seemed to pass the automated tests.
+    advice: |-
+      Just double check the submission as edits post may mess up how the code/branch would be accesible. Upon further snooping I did find her code on her actual repo/account but it won't pull up from the script ran here. But other than that everything seems neat.
+      Keep up the great work!
+  scores: []
+  mp_number: 0
+evaluator: asarker00
+
